@@ -11,7 +11,7 @@
   Copy `extract.js` into your same folder as your twitter archive
   (unzip the file they send you and make sure the new folder is called `tweets`) and run
 
-  $ ./extract.js
+    $ ./extract.js
 
 ## License
 
