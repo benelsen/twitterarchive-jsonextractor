@@ -8,7 +8,7 @@
 
 ## Usage
 
-  Copy `extract.js` into your same folder as your Twitter archive
+  Copy `extract.js` into the same folder as your Twitter archive
   (unzip the file they sent you and make sure the new folder is called `tweets`) and run
 
     $ ./extract.js
